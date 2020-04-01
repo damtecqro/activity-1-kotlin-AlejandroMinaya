@@ -39,4 +39,9 @@ Following rubric will be used to grade each probleam
 
 ## Delivery Date
 
+## Links to Algorithm Diagrams
+[Diagrams](https://drive.google.com/file/d/1cyQGmL8dvJhlNE5qLOpyi_fcQV-N29lE/view?usp=sharing)
+
+
 ### 28/02/2020 11:59 at GitHub Classroom
+
